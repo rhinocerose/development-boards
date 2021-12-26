@@ -1,1 +1,3 @@
-# New
+# Nucleo F410RB
+
+## Pinouts
