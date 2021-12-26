@@ -33,3 +33,5 @@
 ![](img/nucleo_f410rb_2017_9_19_morphor.png)
 
 ![](img/STM32-Nucleo-F401RE-Pinout.png)
+
+![](img/STM32-Nucleo-F401RE.png)
