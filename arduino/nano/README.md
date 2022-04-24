@@ -1,6 +1,6 @@
 # Arduino Nano
 
-## Specifications (FIX)
+## Specifications
 - ATmega328 AVR
 - 32 KB Flash Memory of which 2 KB used by bootloader
 - SRAM 	2 KB
